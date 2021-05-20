@@ -1,4 +1,4 @@
-# About Myself, the most unpredictable guy in this world 😅😅
+# About Myself, the curious guy who just want to learn new things 🙃🙃
 
 Hi, I am Shiven Saini. I am a curious guy and want to learn everything about computers 😉😉. Moreover I am a self-taught programmer, currently learning OpenCV.
 
