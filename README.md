@@ -1,8 +1,8 @@
 # About Myself, the curious guy who just want to learn new things 🙃🙃
 
-Hi, I am Shiven Saini. I am a curious guy and want to learn everything about computers 😉😉. Moreover I am a self-taught programmer, currently learning OpenCV.
+Hi, I am Shiven Saini. I am a curious guy and want to learn everything about computers 😉😉. Moreover I am a self-taught programmer, currently learning Flutter.
 
-I am passionate about programming, specializing in Python, Javascript, Kotlin & Linux. I have some experience with Software & Android Developement.
+I am passionate about programming, specializing in Python, Dart, Kotlin & Linux. I have some experience with Software & Android Developement.
 
 ## Founder of PithuuOS 
 
@@ -13,9 +13,8 @@ Visit PithuuOS💻 : https://www.sites.google.com/view/pithuuos
 ## Currently Working on 
 
 Nectar OS, a Machine learning based linux distro. (So, I can Hone my ML Skills)
- Reason of Development : Just curios to build it. 😅😅
 
-Learning : OpenCV. Panda-Python, Kivy-Python & Tensorflow.
+Learning : OpenCV. Panda-Python, Kivy-Python, Flutter & Tensorflow.
 
 # Contact Me
 
