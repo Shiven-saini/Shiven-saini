@@ -1,5 +1,3 @@
-# About Myself, the curious guy who just want to learn new things 🙃🙃
-
 Hi, I am Shiven Saini. I am a curious guy and want to learn everything about computers 😉😉. Moreover I am a self-taught programmer, currently learning Flutter.
 
 I am passionate about programming, specializing in Python, Dart, Kotlin & Linux. I have some experience with Software & Android Developement.
