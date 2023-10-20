@@ -4,7 +4,7 @@ I am passionate about programming, specializing in Python, Dart, Kotlin & Linux.
 
 ## Founder of PithuuOS 
 
-I am founder of PithuuOS an ubuntu based linux distro that is optimized for visual experience and performance.
+I am a lead developer of PithuuOS an ubuntu based linux distro that is optimized for visual experience and performance.
 
 Visit PithuuOS💻 : https://www.sites.google.com/view/pithuuos
 
