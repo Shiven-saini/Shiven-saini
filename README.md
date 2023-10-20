@@ -10,8 +10,6 @@ Visit PithuuOS💻 : https://www.sites.google.com/view/pithuuos
 
 ## Currently Working on 
 
-Nectar OS, a Machine learning based linux distro. (So, I can Hone my ML Skills)
-
 Learning : OpenCV. Panda-Python, Kivy-Python, Flutter & Tensorflow.
 
 # Contact Me
