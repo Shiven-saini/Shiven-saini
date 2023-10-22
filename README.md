@@ -2,7 +2,7 @@ Hi, I am Shiven Saini. I am a curious guy and want to learn everything about com
 
 I am passionate about programming, specializing in Python, Dart, Kotlin & Linux. I have some experience with Software & Android Developement.
 
-## Founder of PithuuOS 
+## PithuuOS 
 
 I am a lead developer of PithuuOS an ubuntu based linux distro that is optimized for visual experience and performance.
 
