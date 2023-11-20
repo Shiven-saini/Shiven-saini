@@ -1,16 +1,18 @@
-Hi, I am Shiven Saini. I am a curious guy and want to learn everything about computers 😉😉. Moreover I am a self-taught programmer, currently learning Flutter.
+Hi, I am Shiven Saini. I am a curious guy and want to learn everything about computers 😉😉. Moreover I am a self-taught programmer, currently learning Flutter framework.
 
-I am passionate about programming, specializing in Python, Dart, Kotlin & Linux. I have some experience with Software & Android Developement.
+I am passionate about programming, robotics specializing in C++, C, Python, Dart(Flutter), Kotlin & Linux. I have some experience in Software & Android Developement.
+
+---
 
 ## PithuuOS 
 
-I am a lead developer of PithuuOS an ubuntu based linux distro that is optimized for visual experience and performance.
+I am a lead developer of PithuuOS an arch based linux distro that is optimized for visual experience and performance, targeting Dev experience.
 
-Visit PithuuOS💻 : https://www.sites.google.com/view/pithuuos
+Visit PithuuOS 💻 (Legacy) : https://www.sites.google.com/view/pithuuos
 
 ## Currently Working on 
 
-Learning : OpenCV. Panda-Python, Kivy-Python, Flutter & Tensorflow.
+Learning & playing with : OpenCV(For robotics), Blender-3D Animation, Fusion 360, Competitive Programming, Rust(with GTK), SVG Illustration & playing with Game engines(Godot).
 
 # Contact Me
 
