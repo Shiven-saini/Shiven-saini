@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Shiven Saini
 
-🚀 **Android Developer | Robotics Enthusiast | GPU & AI Explorer**
+🚀 **Robotics Enthusiast | GPU & AI Explorer | Android Developer**
 
 ---
 
@@ -15,9 +15,9 @@ I'm a passionate Android Developer with a strong foundation in computer science,
 ---
 
 ## ⚡ What I Do
-
-- **Android Development:** Professional experience building scalable, high-performance Android applications.
 - **GPU & CUDA Programming:** Currently investing my time in CUDA, GPU programming, and the fascinating world of AI engineering.
+- **Building Linux Distros:** Currently maintaining a linux distro for developers.
+- **Android Development:** Professional experience building scalable, high-performance Android applications.
 - **Robotics:**  
   - Extensive hands-on experience with PID controllers, self-balancing vehicles (including bikes and inverted pendulums).
   - Proficient with MATLAB and ROS2—creating nodes to control and automate remote devices.
@@ -30,10 +30,8 @@ I'm a passionate Android Developer with a strong foundation in computer science,
 
 - **CUDA & GPU Programming**
 - **AI Engineering (ML/DL frameworks)**
-- **Competitive Programming**
+- **Building AI Infrastructure (vllm, langchain, RAGs)**
 - **3D Animation (Blender), CAD (Fusion 360)**
-- **Rust (with GTK)**
-- **SVG Illustration**
 - **Game Engines (Godot)**
 
 ---
