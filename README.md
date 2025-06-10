@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Shiven Saini
 
-🚀 **Robotics Enthusiast | GPU & AI Explorer | Android Developer**
+🚀 **Robotics Enthusiast | GPU & AI Engg. | Android Developer**
 
 ---
 
@@ -38,8 +38,8 @@ I'm a passionate Android Developer with a strong foundation in computer science,
 
 ## 📬 Let's Connect
 
-- 🌐 Professional Portfolio: [Website](https://shiven.one)
-- 📧 Email: [shiven.career@proton.me](mailto:shiven.career@proton.me)
+- 🌐 Professional Portfolio: [https://shiven.one](https://shiven.one)
+- 📧 Email Address: [shiven.career@proton.me](mailto:shiven.career@proton.me)
 
 ---
 
