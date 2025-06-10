@@ -38,7 +38,7 @@ I'm a passionate Android Developer with a strong foundation in computer science,
 
 ## 📬 Let's Connect
 
-- 🌐 Professional Portfolio: [https://shiven.one](https://shiven.one)
+- 🌐 Professional Portfolio: <a href="https://shiven.one" target="_blank" rel="noopener noreferrer">Website</a>
 - 📧 Email Address: [shiven.career@proton.me](mailto:shiven.career@proton.me)
 
 ---
