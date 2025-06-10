@@ -48,5 +48,3 @@ I'm a passionate Android Developer with a strong foundation in computer science,
 </p>
 
 ---
-
-> 💡 *"Learning never exhausts the mind!"*
