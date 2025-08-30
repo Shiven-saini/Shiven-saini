@@ -44,9 +44,3 @@ I'm a passionate Android Developer with a strong foundation in computer science,
 - 📧 Email Address: [shiven.career@proton.me](mailto:shiven.career@proton.me)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiven-saini&show_icons=true&theme=github_dark" alt="Shiven's GitHub stats" />
-</p>
-
----
