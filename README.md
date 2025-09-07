@@ -6,7 +6,7 @@
 
 🚀 **Robotics Enthusiast | GPU & AI Engg. | Android Developer**
 
-💼 **Systems Software Engineer Intern @ Uniconverge Technologies, Noida**
+💼 **AI/ML Software Engineer Intern @ Uniconverge Technologies, Noida**
 
 ---
 
