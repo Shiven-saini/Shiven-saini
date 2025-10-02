@@ -4,13 +4,13 @@
 
 # 👋 Hi, I'm Shiven Saini
 
-🚀 **Robotics Enthusiast | GPU & AI Engg. | Android Developer**
+🚀 **Robotics Enthusiast | GPU & AI Engg.**
 
 ---
 
 ## 💼 About Me
 
-I'm a passionate Android Developer with a strong foundation in computer science, robotics, and modern GPU programming. I thrive on building robust mobile apps, experimenting with cutting-edge AI, and engineering smart robotics solutions. My toolkit includes C++, C, Python, Kotlin, Dart (Flutter), and Linux, and I'm always eager to learn more.
+I'm a passionate Cross-Domain Engineer with a strong foundation in computer science, robotics, and modern GPU programming. I thrive on combining my cross-domain expertise in a novel manner, experimenting with cutting-edge AI, and engineering smart robotics solutions. My toolkit includes C++, C, Python, Kotlin, Dart (Flutter), and Linux, and I'm always eager to learn more.
 
 ---
 
