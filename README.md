@@ -30,6 +30,26 @@ I'm a passionate Cross-Domain Engineer with a strong foundation in computer scie
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Shiven-saini&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Shiven's GitHub Stats" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiven-saini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiven-saini&theme=tokyonight" />
+</div>
+
+---
+
 ## 🎯 Learning & Exploring
 
 - **CUDA & GPU Programming**
