@@ -11,7 +11,7 @@
 
 ## 💼 About Me
 
-I'm a passionate Cross-Domain Engineer with a strong foundation in computer science, AI, Robotics, and modern GPU programming. I thrive on combining my cross-domain skills in a novel manner to think of new crazy stuff, experimenting with cutting-edge AI Research and engineering smart robotics projects. My toolkit includes C++(17), Python, Kotlin, Typescript and Linux. I bring practical experience across AWS, Azure, and GCP, and have leveraged RunPod for large-scale, GPU-intensive workloads.
+I'm a passionate Engineer with a strong foundation in computer science, AI, Robotics, and modern GPU programming. I thrive on combining my cross-domain skills in a novel manner to think of new crazy stuff, experimenting with cutting-edge AI Research and engineering smart robotics projects. My toolkit includes C++(17), Python, Kotlin, Typescript and Linux. I bring practical experience across AWS, Azure, and GCP, and have leveraged RunPod for large-scale, GPU-intensive workloads.
 
 ---
 
